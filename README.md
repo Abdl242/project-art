@@ -58,6 +58,6 @@ The model says it's Picasso !
 
 Let's try with another painter ! Welcome Zdislav !
 
-![Zdislav accuracy](zdislav.jpg)
+![Zdislav accuracy](Zdislav.jpg)
 
 We have the same result. We could improve the model to get the last 4% but we will try a different way !
