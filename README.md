@@ -50,6 +50,6 @@ And it did right because we were able to reach the score of 95% !
 
 What if we give a random Picasso's picture from internet to our model, will he give us the right answer :
 
-![Picasso accuracy](./data/train/picc.jpg)
+![Picasso accuracy](/data/train/picc.jpg)
 
 The model says it's Picasso !
