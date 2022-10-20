@@ -41,3 +41,15 @@ The only good news here is that the model does not overfit.
 We were unable to determine the artist (at least yet !) so now we will try to determine if one painting comes from one specific artist.
 
 ## Picasso or not?
+
+Let's try our model on a different task. Instead of asking him from which artist comes from one painting, we will request him to tell us if this painting come from the chosen artist, here Picasso, or not.
+
+And it did right because we were able to reach the score of 95% !
+
+![Picasso accuracy](picasso_acc.jpg)
+
+What if we give a random Picasso's picture from internet to our model, will he give us the right answer :
+
+![Picasso accuracy](./data/train/picc.jpg)
+
+The model says it's Picasso !
