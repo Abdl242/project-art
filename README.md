@@ -53,3 +53,11 @@ What if we give a random Picasso's picture from internet to our model, will he g
 ![Picasso ](picc.jpg)
 
 The model says it's Picasso !
+
+## And Zdislav?
+
+Let's try with another painter ! Welcome Zdislav !
+
+![Zdislav accuracy](zdislav.jpg)
+
+We have the same result. We could improve the model to get the last 4% but we will try a different way !
